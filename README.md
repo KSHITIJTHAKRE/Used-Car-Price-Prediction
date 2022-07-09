@@ -39,6 +39,8 @@ Random Forest has the highest accuracy among the four models (Linear Regression,
 
 Random Forest has the highest Accuracy of 93.6% (cv=10) .
 
+## Detailed Report
+For a detailed report refer to this document - ![Project_Report](Project_Report.docx)
 
 
 
