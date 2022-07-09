@@ -21,6 +21,18 @@ accuracies.
 ***Target variable***: Price <br/>
 ***Link*** : [Used-car-price-prediction](https://www.kaggle.com/datasets/gothamv/usedcarprices) <br/>
 
+###### Attribute Details
+
+![](Attributes_details.png)
+
+## Comparing Performance of Models
+
+After training the Model the outcome obtained on the Test data is as follows:
+
+![](Output.png)
+
+Random Forest has the highest accuracy among the four models (Linear Regression, Random Forest, Decision Tree and KNN) of 93.03%
+
 
 
 
