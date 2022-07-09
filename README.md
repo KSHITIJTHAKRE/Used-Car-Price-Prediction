@@ -33,9 +33,11 @@ After training the Model the outcome obtained on the Test data is as follows:
 
 Random Forest has the highest accuracy among the four models (Linear Regression, Random Forest, Decision Tree and KNN) of 93.03%
 
+## Comparing Performance of Models Using Cross Validation
 
+![](CV_comparison.png)
 
-
+Random Forest has the highest Accuracy of 93.6% (cv=10) .
 
 
 
